@@ -13,5 +13,10 @@ namespace TestApp.Services
         {
             // save name on person 
         }
+
+        public void GetStuff()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
