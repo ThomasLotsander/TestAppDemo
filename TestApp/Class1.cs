@@ -15,9 +15,10 @@ namespace TestApp
 
         public string GetString()
         {
-            var tes = "TEST";
+            // Comment
+            var tes = "TEST--Test";
             var test = tes;
-            test = "555";
+            test = "555--123---2323";
             return "Hello World!";
         }
     }
