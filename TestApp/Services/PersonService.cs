@@ -21,5 +21,10 @@ namespace TestApp.Services
         {
             throw new NotImplementedException();
         }
+
+        public int WhatIsMyAge()
+        {
+            return 62;
+        }
     }
 }
