@@ -14,7 +14,9 @@ namespace TestApp.Services
             // save name on person 
 
             var name = "Thomas";
+            // Comment
             name = "Börje";
+
         }
 
         public void GetStuff()
@@ -24,7 +26,7 @@ namespace TestApp.Services
 
         public int WhatIsMyAge()
         {
-            return 62;
+            return 555;
         }
     }
 }
