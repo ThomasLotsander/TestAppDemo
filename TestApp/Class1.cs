@@ -17,6 +17,7 @@ namespace TestApp
         {
             var tes = 1;
             var test = tes;
+            test = 555;
             return "Hello World!";
         }
     }
