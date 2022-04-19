@@ -14,6 +14,7 @@ namespace TestApp.Services
             // save name on person 
 
             var name = "Thomas";
+            name = "Börje";
         }
 
         public void GetStuff()
