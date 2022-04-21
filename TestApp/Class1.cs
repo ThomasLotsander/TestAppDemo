@@ -18,7 +18,7 @@ namespace TestApp
             // Comment
             var tes = "TEST--Test";            
             var test = tes;
-            test = 12345;
+            // Changes
 
             // test
             return "Hello World!";
